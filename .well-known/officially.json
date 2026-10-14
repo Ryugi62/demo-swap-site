@@ -1,0 +1,9 @@
+{
+  "project": "Demo Swap (synthetic)",
+  "note": "SYNTHETIC demo project (not a real protocol). This repo is the project's own site/source, separate from the Officially tool repo (Ryugi62/officially). It exists so the root-key anchor lives outside the tool.",
+  "officially": {
+    "contract": "officially.v1",
+    "network": "Arkiv Tiramisu testnet (chain 7738577)",
+    "rootKey": "0x70E5d4986A251a5173Acf59c86178e144B62864E"
+  }
+}
